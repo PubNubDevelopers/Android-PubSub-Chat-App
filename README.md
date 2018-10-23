@@ -12,13 +12,13 @@ Here are the list of steps that will get you up and running with the project.
 
 ### Prerequisites
 
-You'll need to clone the repo then install all the dependencies using a package manager.
+You'll need to clone the repo then sync the gradle file in android studio.
 
 
 ```
-git clone https://github.com/nxsyed/Chat-Application-Muting.git master
-npm i
+https://github.com/nxsyed/Publisher-Subscriber-Android.git
 ```
+Great now we can open Android Studio, sync and run the project.
 
 ## Deployment
 
