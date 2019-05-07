@@ -1,4 +1,4 @@
-# Publisher Subscriber Android
+# Android Chat App Example with the PubNub Pub/Sub Messaging API
 
 This is the example of how to publish and subscribe on Android using and PubNub
 
