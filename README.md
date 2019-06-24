@@ -32,7 +32,7 @@ You can build the project using android studio
 
 ## Authors
 
-* **Syed Ahmed** - *Complete Project* - [Website](https://www.nxsyed.me/)
+* **Syed Ahmed** - *Complete Project*
 
 ## License
 
